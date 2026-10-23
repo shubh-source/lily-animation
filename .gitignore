@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+test_*.js
+verify_compile.js
